@@ -1,0 +1,10 @@
+footer p a {
+	margin: 5px 15px;
+	color: #228b22;
+	text-decoration: none;
+}
+footer p a:hover{
+    color:  #32cd32;
+    transform: .4s;
+    text-decoration: none;
+}
